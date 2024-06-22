@@ -1,1 +1,3 @@
 # Chat_with_PDF
+
+The "Chat with PDF using Gemini" application allows users to interact with PDF documents by uploading them and asking questions. The application uses Google's Generative AI model, Gemini, to understand the content of the PDF files and provide detailed answers to user queries. Users can upload multiple PDF files, and the application will extract the text and create a vector store using FAISS for efficient searching. The application provides a chat interface where users can enter their questions, and the Gemini-powered conversational chain will generate responses based on the relevant content from the uploaded PDFs. This tool enables users to quickly find information and get answers from PDF documents without having to manually search through them.
